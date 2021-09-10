@@ -1,0 +1,1 @@
+Geting hands dirty with React. Using useState . Passing info as props from parent to a child component. Learning to Map array of info components.Learning function components to render info provided as porps
